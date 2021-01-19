@@ -2,4 +2,4 @@
 layout: Slide
 title: " welcome to our second slide!"
 ---
-couldnt this have been any easier?
+Fall from grace is hardere,if you stand for nothing
